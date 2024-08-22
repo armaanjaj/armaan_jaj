@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armaanjaj&show_icons=true&locale=en" alt="armaanjaj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armaanjaj&" alt="armaanjaj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armaanjaj&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true" alt="armaanjaj" /></p>
 
